@@ -32,17 +32,21 @@ namespace WKR1
             return i;
         }
 
-        public string groverStart(string arrayStr, int numberIterations)              // Алгоритм Гровера
+        public string [] groverStart(string arrayStr, int numberIterations, int N)              // Алгоритм Гровера
         {
-            string answer_mas;                                              // Хранятся все ответы
+            string[] answer_mas=new string[N];                                              // Хранятся все ответы
             int[] arrayInt = new int[8];
             for (int count = 0; count < 8; count++)
             {
                 arrayInt[count] = Convert.ToInt32(arrayStr[count]);
                 arrayInt[count] = arrayInt[count] - 48;
             }
+            for (int count = 0; count < N; count++)
+            {
             Grover grover = new Grover(new Random());
-            answer_mas = grover.Run(numberIterations, arrayInt);
+            answer_mas [count]=grover.Run(numberIterations, arrayInt);
+            }
+            
             return answer_mas;
         }
         public int[] shorStart(int numberToFactor, int registerLength)

@@ -7,12 +7,11 @@ D:\4 curs\ВКР\попытка\WKR1\WKR1\bin\Debug\MathNet.Numerics.xml
 D:\4 curs\ВКР\попытка\WKR1\WKR1\obj\Debug\WKR1.dll
 D:\4 curs\ВКР\попытка\WKR1\WKR1\obj\Debug\WKR1.pdb
 D:\4 curs\ВКР\попытка\WKR1\WKR1\obj\Debug\WKR1.csprojResolveAssemblyReference.cache
+D:\4 curs\ВКР\попытка\Алгоритм Гровера\WKR1\WKR1\obj\Debug\WKR1.dll
 D:\4 curs\ВКР\попытка\Алгоритм Гровера\WKR1\WKR1\bin\Debug\WKR1.dll.config
 D:\4 curs\ВКР\попытка\Алгоритм Гровера\WKR1\WKR1\bin\Debug\WKR1.dll
 D:\4 curs\ВКР\попытка\Алгоритм Гровера\WKR1\WKR1\bin\Debug\WKR1.pdb
 D:\4 curs\ВКР\попытка\Алгоритм Гровера\WKR1\WKR1\bin\Debug\MathNet.Numerics.dll
 D:\4 curs\ВКР\попытка\Алгоритм Гровера\WKR1\WKR1\bin\Debug\QuantumComputing.dll
 D:\4 curs\ВКР\попытка\Алгоритм Гровера\WKR1\WKR1\bin\Debug\MathNet.Numerics.xml
-D:\4 curs\ВКР\попытка\Алгоритм Гровера\WKR1\WKR1\obj\Debug\WKR1.csprojResolveAssemblyReference.cache
-D:\4 curs\ВКР\попытка\Алгоритм Гровера\WKR1\WKR1\obj\Debug\WKR1.dll
 D:\4 curs\ВКР\попытка\Алгоритм Гровера\WKR1\WKR1\obj\Debug\WKR1.pdb

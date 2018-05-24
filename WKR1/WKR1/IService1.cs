@@ -16,7 +16,7 @@ namespace WKR1
         int deutschStart(string array);
 
         [OperationContract]
-        string groverStart(string arrayStr, int numberIterations);
+        string[] groverStart(string arrayStr, int numberIterations, int N); 
 
         [OperationContract]
         int[] shorStart(int numberToFactor, int registerLength);
