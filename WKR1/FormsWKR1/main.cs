@@ -61,5 +61,10 @@ namespace FormsWKR1
             about_pr.Show();
             Hide();
         }
+
+        private void main_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -15,8 +15,6 @@ D:\4 curs\ВКР\попытка\WKR1\FormsWKR1\obj\Debug\FormsWKR1.AboutProgr.re
 D:\4 curs\ВКР\попытка\Алгоритм Гровера\WKR1\FormsWKR1\bin\Debug\FormsWKR1.exe.config
 D:\4 curs\ВКР\попытка\Алгоритм Гровера\WKR1\FormsWKR1\obj\Debug\FormsWKR1.exe
 D:\4 curs\ВКР\попытка\Алгоритм Гровера\WKR1\FormsWKR1\obj\Debug\FormsWKR1.pdb
-D:\4 curs\ВКР\попытка\Алгоритм Гровера\WKR1\FormsWKR1\bin\Debug\FormsWKR1.exe
-D:\4 curs\ВКР\попытка\Алгоритм Гровера\WKR1\FormsWKR1\bin\Debug\FormsWKR1.pdb
 D:\4 curs\ВКР\попытка\Алгоритм Гровера\WKR1\FormsWKR1\obj\Debug\FormsWKR1.csprojResolveAssemblyReference.cache
 D:\4 curs\ВКР\попытка\Алгоритм Гровера\WKR1\FormsWKR1\obj\Debug\FormsWKR1.AboutProgr.resources
 D:\4 curs\ВКР\попытка\Алгоритм Гровера\WKR1\FormsWKR1\obj\Debug\FormsWKR1.algorithm_deutsch.resources
@@ -26,6 +24,19 @@ D:\4 curs\ВКР\попытка\Алгоритм Гровера\WKR1\FormsWKR1\o
 D:\4 curs\ВКР\попытка\Алгоритм Гровера\WKR1\FormsWKR1\obj\Debug\FormsWKR1.main.resources
 D:\4 curs\ВКР\попытка\Алгоритм Гровера\WKR1\FormsWKR1\obj\Debug\FormsWKR1.Properties.Resources.resources
 D:\4 curs\ВКР\попытка\Алгоритм Гровера\WKR1\FormsWKR1\obj\Debug\FormsWKR1.csproj.GenerateResource.Cache
+D:\4 curs\ВКР\попытка\Алгоритм Гровера\WKR1\FormsWKR1\bin\Debug\FormsWKR1.exe
+D:\4 curs\ВКР\попытка\Алгоритм Гровера\WKR1\FormsWKR1\bin\Debug\FormsWKR1.pdb
 D:\4 curs\ВКР\попытка\WKR1_4.5.1\WKR1\FormsWKR1\bin\Debug\FormsWKR1.exe.config
 D:\4 curs\ВКР\попытка\WKR1_4.5.1\WKR1\FormsWKR1\obj\Debug\FormsWKR1.exe
 D:\4 curs\ВКР\попытка\WKR1_4.5.1\WKR1\FormsWKR1\obj\Debug\FormsWKR1.pdb
+D:\4 curs\ВКР\попытка\WKR1_4.5.1\WKR1\FormsWKR1\bin\Debug\FormsWKR1.exe
+D:\4 curs\ВКР\попытка\WKR1_4.5.1\WKR1\FormsWKR1\bin\Debug\FormsWKR1.pdb
+D:\4 curs\ВКР\попытка\WKR1_4.5.1\WKR1\FormsWKR1\obj\Debug\FormsWKR1.csprojResolveAssemblyReference.cache
+D:\4 curs\ВКР\попытка\WKR1_4.5.1\WKR1\FormsWKR1\obj\Debug\FormsWKR1.AboutProgr.resources
+D:\4 curs\ВКР\попытка\WKR1_4.5.1\WKR1\FormsWKR1\obj\Debug\FormsWKR1.algorithm_deutsch.resources
+D:\4 curs\ВКР\попытка\WKR1_4.5.1\WKR1\FormsWKR1\obj\Debug\FormsWKR1.algorithm_grover.resources
+D:\4 curs\ВКР\попытка\WKR1_4.5.1\WKR1\FormsWKR1\obj\Debug\FormsWKR1.algorithm_Shora.resources
+D:\4 curs\ВКР\попытка\WKR1_4.5.1\WKR1\FormsWKR1\obj\Debug\FormsWKR1.algorithm_simon.resources
+D:\4 curs\ВКР\попытка\WKR1_4.5.1\WKR1\FormsWKR1\obj\Debug\FormsWKR1.main.resources
+D:\4 curs\ВКР\попытка\WKR1_4.5.1\WKR1\FormsWKR1\obj\Debug\FormsWKR1.Properties.Resources.resources
+D:\4 curs\ВКР\попытка\WKR1_4.5.1\WKR1\FormsWKR1\obj\Debug\FormsWKR1.csproj.GenerateResource.Cache

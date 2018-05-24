@@ -22,10 +22,10 @@ namespace FormsWKR1.ServiceReference1 {
         System.Threading.Tasks.Task<int> deutschStartAsync(string array);
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IService1/groverStart", ReplyAction="http://tempuri.org/IService1/groverStartResponse")]
-        string groverStart(string arrayStr, int numberIterations);
+        string[] groverStart(string arrayStr, int numberIterations, int N);
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IService1/groverStart", ReplyAction="http://tempuri.org/IService1/groverStartResponse")]
-        System.Threading.Tasks.Task<string> groverStartAsync(string arrayStr, int numberIterations);
+        System.Threading.Tasks.Task<string[]> groverStartAsync(string arrayStr, int numberIterations, int N);
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IService1/shorStart", ReplyAction="http://tempuri.org/IService1/shorStartResponse")]
         int[] shorStart(int numberToFactor, int registerLength);
@@ -75,12 +75,12 @@ namespace FormsWKR1.ServiceReference1 {
             return base.Channel.deutschStartAsync(array);
         }
         
-        public string groverStart(string arrayStr, int numberIterations) {
-            return base.Channel.groverStart(arrayStr, numberIterations);
+        public string[] groverStart(string arrayStr, int numberIterations, int N) {
+            return base.Channel.groverStart(arrayStr, numberIterations, N);
         }
         
-        public System.Threading.Tasks.Task<string> groverStartAsync(string arrayStr, int numberIterations) {
-            return base.Channel.groverStartAsync(arrayStr, numberIterations);
+        public System.Threading.Tasks.Task<string[]> groverStartAsync(string arrayStr, int numberIterations, int N) {
+            return base.Channel.groverStartAsync(arrayStr, numberIterations, N);
         }
         
         public int[] shorStart(int numberToFactor, int registerLength) {

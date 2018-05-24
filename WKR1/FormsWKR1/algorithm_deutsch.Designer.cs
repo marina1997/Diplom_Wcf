@@ -45,7 +45,6 @@
             this.textbox15 = new System.Windows.Forms.TextBox();
             this.textbox16 = new System.Windows.Forms.TextBox();
             this.run = new System.Windows.Forms.Button();
-            this.label1 = new System.Windows.Forms.Label();
             this.back = new System.Windows.Forms.Button();
             this.button_clear = new System.Windows.Forms.Button();
             this.exit = new System.Windows.Forms.Button();
@@ -53,6 +52,7 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.label1 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -214,16 +214,6 @@
             this.run.UseVisualStyleBackColor = false;
             this.run.Click += new System.EventHandler(this.run_Click);
             // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Times New Roman", 14F);
-            this.label1.Location = new System.Drawing.Point(17, 49);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(32, 21);
-            this.label1.TabIndex = 17;
-            this.label1.Text = "lab";
-            // 
             // back
             // 
             this.back.BackColor = System.Drawing.Color.SteelBlue;
@@ -302,10 +292,19 @@
             this.panel1.BackColor = System.Drawing.Color.White;
             this.panel1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel1.Controls.Add(this.label1);
-            this.panel1.Location = new System.Drawing.Point(273, 134);
+            this.panel1.Location = new System.Drawing.Point(273, 135);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(215, 129);
+            this.panel1.Size = new System.Drawing.Size(224, 128);
             this.panel1.TabIndex = 24;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Times New Roman", 14F);
+            this.label1.Location = new System.Drawing.Point(3, 50);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(0, 21);
+            this.label1.TabIndex = 17;
             // 
             // algorithm_deutsch
             // 
@@ -366,7 +365,6 @@
         private System.Windows.Forms.TextBox textbox15;
         private System.Windows.Forms.TextBox textbox16;
         private System.Windows.Forms.Button run;
-        private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button back;
         private System.Windows.Forms.Button button_clear;
         private System.Windows.Forms.Button exit;
@@ -374,5 +372,6 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Panel panel1;
+        private System.Windows.Forms.Label label1;
     }
 }
